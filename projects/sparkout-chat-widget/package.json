@@ -1,0 +1,36 @@
+{
+  "name": "sparkout-chat-web-component",
+  "version": "1.0.3",
+  "description": "Sparkout Chat Web Component",
+  "keywords": [
+    "chatbot",
+    "chat",
+    "plugin",
+    "widget",
+    "Angular",
+    "React",
+    "chat plugin",
+    "openai"
+  ],
+  "author": "Rubanrubi",
+  "license": "MIT",
+  "contributors": [
+    "Rubanrubi"
+  ],
+  "homepage": "https://github.com/Rubanrubi/Sparkout-chat-web-component.git",
+  "repository": {
+      "type": "git",
+      "url": "git@github.com:Rubanrubi/Sparkout-chat-web-component.git"
+  },
+  "bugs": {
+      "url": "https://github.com/Rubanrubi/Sparkout-chat-web-component/issues"
+  },
+  "peerDependencies": {
+    "@angular/common": "^12.2.0",
+    "@angular/core": "^12.2.0",
+    "@angular/elements": "^12.2.17"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}

@@ -15,6 +15,12 @@
     "moduleResolution": "node",
     "importHelpers": true,
     "target": "es2017",
+    "paths": {
+      "sparkout-chat-widget": [
+        "dist/sparkout-chat-widget/sparkout-chat-widget",
+        "dist/sparkout-chat-widget"
+      ]
+    },
     "module": "es2020",
     "lib": [
       "es2018",

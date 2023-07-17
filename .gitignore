@@ -43,3 +43,5 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+projects/sparkout-chat-widget/node_modules/
+package-lock.json
