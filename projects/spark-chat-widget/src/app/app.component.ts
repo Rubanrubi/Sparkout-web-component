@@ -6,7 +6,7 @@ import { SparkoutChatWidgetService } from './sparkout-chat-widget.service';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['../styles.css']
+  styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit, OnChanges {
   @Input('baseUrl') baseUrl: any;
