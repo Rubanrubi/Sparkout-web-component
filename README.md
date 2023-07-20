@@ -1,27 +1,38 @@
-# SparkoutChatAngular12
+<a href="https://sparkouttech.com">
+  <img align="right" width="100" height="100" alt="Official Javascript Component" src="https://www.sparkouttech.com/assets/images/logo/logo.svg">
+</a>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.18.
+# Sparkout Chat Bot
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Installation
 
-## Code scaffolding
+Using `ng add`:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+```
+# See Compatibility table below to choose a correct version
 
-## Build
+Using [Yarn](https://yarnpkg.com)
+```
+$ yarn add 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+# See Compatibility table below to choose a correct version
+```
 
-## Running unit tests
+Using [NPM](https://www.npmjs.com/)
+```
+$ npm install 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+# See Compatibility table below to choose a correct version
 
-## Running end-to-end tests
+```
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+### Compatibility table
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+|Sparkout-web-component|Angular|React|Vue|
+|-|-|-|-|
+|1.0.0|5.x|5.x|not supported|
+|1.0.1|6.x|5.x|not supported|
+|1.0.2|6.x && 7.x|5.x|not supported|
+|1.0.3, 0.5.x|8.x|5.x|not supported|
+|1.0.4|9.x|5.x|supported|
